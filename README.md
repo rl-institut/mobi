@@ -7,4 +7,7 @@ Git and Anaconda should already be installed.
 
 It is recommended to install everything in a conda environment with the following script in the command line or terminal.
 
+```bash
 conda create –n geobev
+```
+
