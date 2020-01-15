@@ -11,3 +11,11 @@ It is recommended to install everything in a conda environment with the followin
 conda create –n geobev
 ```
 
+Install geopanda to work with the given shapefile.
+
+```bash
+conda install geopandas
+```
+
+You find the module and csv of the shape file in the folder example/shape.
+
