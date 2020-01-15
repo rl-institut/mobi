@@ -1,8 +1,10 @@
-# rli_template
-Template repository for creating new projects under the RLI's umbrella
+# Mobi-tool example
+Here you find a quick example for the openmod 2020 workshop on Charging point distribution for energy demand in the mobility sector
 
 ## Get started
 
-Simply click on the green `Use this template` button on the left of the `Clone or download` button.
+Git and Anaconda should already be installed.
 
-The detailed instructions to create a new repository from this template can be found [here](https://help.github.com/en/articles/creating-a-repository-from-a-template).
+It is recommended to install everything in a conda environment with the following script in the command line or terminal.
+
+conda create –n geobev
