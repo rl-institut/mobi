@@ -17,5 +17,18 @@ Install geopanda to work with the given shapefile.
 conda install geopandas
 ```
 
+Install the descartes package to plot polygons in geopandas.
+
+```bash
+conda install descartes
+```
+
+Install matplotlib for the plots.
+
+
+```bash
+pip install matplotlib
+```
+
 You find the module and csv of the shape file in the folder example/shape.
 
